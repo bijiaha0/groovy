@@ -8,6 +8,7 @@ target/
 log.*
 log/
 logs/
+out/
 
 ### STS ###
 .apt_generated
